@@ -15,3 +15,9 @@ A first working version that includes:
 - A simple baseline model
 - A predictive model
 - An evaluation comparing the model against the baseline
+
+-    ## Definition of Done
+   An issue can move to Done only when:
+   - All acceptance criteria in the issue are ticked
+   - The result is pushed to the repository and linked in the issue
+   - Another team member has reviewed it
